@@ -31,6 +31,7 @@ We cover:
   - Demos  
     - Linear model looking for relationship between 2 variables
     - Basic fraud detection analysis
+    - Fraud collusion network diagram
 
 
 Options:
